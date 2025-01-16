@@ -129,3 +129,14 @@ $ python main.py eval_mapping_level -gm ./gold_datasets/mapping_level/code_pair_
 - This scripts that converts various ontology source files to ontology graphs are not included in this repository, as we consider them as a data preprocessing step before the indexing step in OntologyRAG. The authors have plans to make the scripts publicly available, but the formality is still under discussion. If you are interested in knowing more about the conversion process, please read the description in our manuscript or contact the authors.
 - Most ontologies are proprietary, therefore the authors cannot provide the source files to some tested ontologies and mappings (such as SNOMED CT). The authors have included a [demo video](demo_video) to showcase using OntologyRAG retrieval pipeline with a web interface on retrieving and assessing unrefined mappings from ICD-10-WHO to ICD11.
 
+## Disclaimer
+Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
+
+[![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
+
+[cc-by-nc]: https://creativecommons.org/licenses/by-nc/4.0/
+[cc-by-nc-image]: https://licensebuttons.net/l/by-nc/4.0/88x31.png
+[cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg
