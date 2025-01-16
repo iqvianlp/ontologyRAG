@@ -1,0 +1,4 @@
+pandas==2.2.2
+scikit-learn==1.6.1
+pyoxigraph==0.3.22
+-r ./scripts/llm/requirements.txt

@@ -1,0 +1,16 @@
+# pycharm folder
+.idea
+# project data folder
+data/*
+# build folder
+build
+*.egg-info
+# default venvs
+.venv
+# input and generated files
+input/*
+output/*
+# python cache:
+__pycache__
+# macOS files:
+*.DS_Store
